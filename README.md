@@ -1,3 +1,9 @@
+# Deploying a Scalable ML Pipeline with FastAPI
+
+**GitHub Repository:** https://github.com/rilee-jones-2105/Deploying-a-Scalable-ML-Pipeline-with-FastAPI
+
+This project builds and deploys a machine learning pipeline using the Census Income dataset, a Random Forest classifier, and a FastAPI REST API.
+
 Working in a command line environment is recommended for ease of use with git and dvc. If on Windows, WSL1 or 2 is recommended.
 
 # Environment Set up (pip or conda)
